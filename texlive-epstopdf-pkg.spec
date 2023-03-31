@@ -1,6 +1,6 @@
 Name:		texlive-epstopdf-pkg
 Version:	53546
-Release:	1
+Release:	2
 Summary:	Call epstopdf "on the fly"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epstopdf-pkg
