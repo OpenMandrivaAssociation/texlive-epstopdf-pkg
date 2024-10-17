@@ -3,7 +3,7 @@ Version:	71084
 Release:	1
 Summary:	Call epstopdf "on the fly"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epstopdf-pkg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/epstopdf-pkg
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epstopdf-pkg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epstopdf-pkg.doc.r%{version}.tar.xz
